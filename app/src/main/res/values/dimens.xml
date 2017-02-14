@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">2dp</dimen>
+    <dimen name="activity_vertical_margin">2dp</dimen>
+    <dimen name="card_margin">8dp</dimen>
+    <dimen name="card_items_margin">8dp</dimen>
+    <dimen name="profile_line_thickness">.65dp</dimen>
+    <dimen name="profile_line_margin">8dp</dimen>
+    <dimen name="drawable_padding">8dp</dimen>
+    <dimen name="profile_details_height">40dp</dimen>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <item
+        android:id="@+id/nearby"
+        android:title="@string/nearby"></item>
+
+    <item
+        android:id="@+id/item_logout"
+        android:title="@string/log_out"></item>
+
+</menu>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Monumentum</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="registration">Register</string>
+    <string name="username">Username</string>
+    <string name="log_out">Log out</string>
+    <string name="change_pic">Change profile picture</string>
+    <string name="name">Name</string>
+    <string name="type">Type</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="register">Register</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="set_location">Set location</string>
+    <string name="location_permission_denied">Please enable location detection</string>
+    <string name="permission_required_toast">Location permission required</string>
+    <string name="permission_rationale_location">Permission not enabled</string>
+    <string name="saveLocation">Save location</string>
+    <string name="nearby">Nearby monument</string>
+    <string name="photos">Photos</string>
+    <string name="addComment">Add comment</string>
+    <string name="addCommentHint">Add comment here</string>
+</resources>
